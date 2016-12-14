@@ -12,8 +12,8 @@
             "cwd": "${workspaceRoot}",
             "env": {
                 "NODE_ENV": "development",
-                "MICROSOFT_APP_ID": "5072e13d-4121-4fa5-8347-430edb0d23c9",
-                "MICROSOFT_APP_PASSWORD": "7BA6N9XA1QbdP7XM1VyedcO"
+                "MICROSOFT_APP_ID": "YOUR_APP_ID",
+                "MICROSOFT_APP_PASSWORD": "YOUR_APP_PASSWORD"
             }
         },
         {
